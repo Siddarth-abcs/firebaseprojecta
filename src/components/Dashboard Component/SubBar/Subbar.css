@@ -1,0 +1,14 @@
+
+.navbreadcrumb{
+    height: 40px;
+}
+
+.breadcrumb{
+    height: 40px;
+    font-size: 2px;
+}
+
+
+.breadcrumb-tem{
+    border: none;
+}

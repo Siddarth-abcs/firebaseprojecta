@@ -1,0 +1,34 @@
+
+.containerfolder{
+    margin: 1rem 1rem 1rem 2rem;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.boxfolder>p>a{  
+    text-decoration: none;
+}
+.boxfolder>p>a{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: ;
+   text-align: start;
+}
+.fa-solid{
+    font-size: 48px;
+}
+
+.dataname{
+    line-height: inherit;
+    margin-left: 12px;
+    text-transform: capitalize;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .fa-solid{
+        font-size: 18px;
+    }
+
+}
