@@ -8,7 +8,7 @@ import Subbar from '../../components/Dashboard Component/SubBar/Subbar';
 import HomeComponent from '../../components/Dashboard Component/HomeComponent/HomeComponent';
 import CreateFolder from '../../components/Dashboard Component/CreateFolder/CreateFolder';
 import CreateFile from '../../components/Dashboard Component/CreateFile/CreateFile';
-import { getFiles, getFolders } from '../../redux/actionCreators/filefolderActionCreater';
+
 import FolderComponentFile from '../../components/Dashboard Component/FolderComponent/FolderComponentFile';
 import FileComponent from '../../components/Dashboard Component/FileComponent/FileComponent';
 import UploadFile from '../../components/Dashboard Component/UploadFile/UploadFile';
